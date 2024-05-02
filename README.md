@@ -8,5 +8,5 @@
 * Раз в секунду обновляется одно случайное число во всех горизонтальных списках (только в видимой области).
 
 ### Автор: Петров Данил Анатольевич
-### [Посмотреть результат](https://htmlpreview.github.io/?https://github.com/dbih91/test-task-omg/blob/master/dist/index.html)
+### [Посмотреть результат](https://htmlpreview.github.io/?https://github.com/dbih91/test-task-omg/blob/master/preview/index.html)
 ### Stack: Vue 3 + TypeScript + Vite + SASS\
